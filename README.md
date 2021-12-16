@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaushalkumarroy
 - 👀 I’m interested in learning how to build large scale systems and contributing to the open source
 - 🌱 I’m currently learning Operating Systems and DSA
-- 💞️ I’m looking to collaborate on building Operating systems or improving its performance
+- 💞️ I’m looking to collaborate on building Systems or improving its performance
 - 📫 How to reach me: kaushal.dakshana16@gmail.com or https://www.linkedin.com/in/kaushalkumarroy/
 
 <!---
